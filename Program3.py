@@ -48,6 +48,6 @@ print("I am looking for a job with a salary of", lower, "-", upper, "dollars per
 #
 # - The program should work correctly even if the values of the variables are changed.
 
-x = input("X val: ")
-y = input("Y val: ")
+#x = input("X val: ")
+#y = input("Y val: ")
 
